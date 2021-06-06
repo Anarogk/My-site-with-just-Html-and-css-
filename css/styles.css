@@ -112,6 +112,8 @@ hr{
 .computer-circle {
   margin: 0 auto 0 auto;
   border-radius: 50%;
+  height: 60%;
+  width: 60%;
 }
 
 .codeimg {
