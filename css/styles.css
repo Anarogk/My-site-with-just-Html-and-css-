@@ -93,7 +93,7 @@ hr{
 }
 
 .profile {
-  width: 30%;
+  width: 50%;
   text-align: center;
   margin: 100px auto 100px auto;
   line-height: 2;
@@ -113,14 +113,14 @@ hr{
 .contact-me {
   width: 50%;
   margin: 100px auto 100px auto;
-  text-align: left;
+  text-align: center;
   line-height: 2;
 }
 
 .computer-circle {
   border-radius: 50%;
-  height: 60%;
-  width: 60%;
+  height: 78%;
+  width: 78%;
 }
 
 .codeimg {
