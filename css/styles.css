@@ -110,6 +110,12 @@ hr{
   line-height: 2;
 }
 
+.contact-me {
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
 .computer-circle {
   border-radius: 50%;
   height: 60%;
